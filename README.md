@@ -20,7 +20,7 @@ Add it in your root build.gradle at the end of repositories:
 
  ```
  ```
-  LogUtils.i("i 打印内容显示");
+  	LogUtils.i("i 打印内容显示");
         LogUtils.il("il 带标签打印内容显示");
         LogUtils.e("e 打印内容显示");
         LogUtils.el("el 带标签打印内容显示");
